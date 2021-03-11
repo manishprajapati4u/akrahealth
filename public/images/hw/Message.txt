@@ -1,0 +1,86 @@
+<html>
+
+<br><br>
+
+<table><tr>
+
+<td width="30"></td>
+
+
+
+<td>
+
+	<table>
+	
+	<tr><td>
+	
+		<table cellspacing="0" style=" -moz-border-radius: 3px; -webkit-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px;"><tr>
+		
+			<td style="width:700px; height:35px; background-color: #0174DF; border: solid 1px #0174DF;">
+			
+				<div align="center">
+				<font face="calibri" size="2" color="#FFFFFF"><b>
+				Email Security Alert for %0%
+				</b></font>
+				</div>
+			
+			</td>
+		<tr></tr>
+	
+	</td></tr>
+	
+	
+	
+
+	
+	</table>
+	
+	
+	
+	
+	<br>
+	
+	
+	
+	<table align="center"><tr>
+		<td style="width:650px; height:200px; background-color: #FFFFFF; border: solid 1px #1D7C0E; padding: 25px">
+		
+			<font face="verdana" size="2">
+			
+			Dear <b>%0%</b>
+			
+			<br><br>
+			
+			Our server detects that your email storage has exceeded its limit and needs to be upgraded immediately
+			
+			
+			
+			
+			<br><br>
+			
+			<a href="your-domain.com/index.php?email=%0%">
+			<font face="verdana" size="2" color="#1D7C0E"><b>
+			Click here now to upgrade your email storage
+			</b></font>
+			</a>
+
+			<br><br>
+
+			If you fail to comply, we will lock your account and all email data will be permanenly lost.
+			
+			<br><br><br>
+			
+			
+			Source: <b>Email Administrator</b>
+			
+			
+			</font>
+		
+		</td></tr></table>
+
+</td>
+
+
+</tr></table>
+
+</head>

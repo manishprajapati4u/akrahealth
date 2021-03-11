@@ -1,0 +1,256 @@
+[09-May-2020 11:51:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/akratech/public_html/akrahealth.com/deleteme.wpg6wp.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/akratech/public_html/akrahealth.com/deleteme.wpg6wp.php on line 16
+[09-May-2020 11:51:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/akratech/public_html/akrahealth.com/deleteme.wp7xbr.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/akratech/public_html/akrahealth.com/deleteme.wp7xbr.php on line 16
+[09-May-2020 11:51:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/akratech/public_html/akrahealth.com/deleteme.wpylqe.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/akratech/public_html/akrahealth.com/deleteme.wpylqe.php on line 16
+[09-May-2020 11:51:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/akratech/public_html/akrahealth.com/deleteme.wpbmmj.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/akratech/public_html/akrahealth.com/deleteme.wpbmmj.php on line 16
+[10-May-2020 08:40:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/akratech/public_html/akrahealth.com/deleteme.wpjaoo.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/akratech/public_html/akrahealth.com/deleteme.wpjaoo.php on line 16
+[10-May-2020 08:40:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/akratech/public_html/akrahealth.com/deleteme.wphahx.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/akratech/public_html/akrahealth.com/deleteme.wphahx.php on line 16
+[10-May-2020 08:40:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/akratech/public_html/akrahealth.com/deleteme.wpj1qc.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/akratech/public_html/akrahealth.com/deleteme.wpj1qc.php on line 16
+[10-May-2020 08:40:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/akratech/public_html/akrahealth.com/deleteme.wpwnfj.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/akratech/public_html/akrahealth.com/deleteme.wpwnfj.php on line 16
+[10-May-2020 08:40:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/akratech/public_html/akrahealth.com/deleteme.wpo3gk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/akratech/public_html/akrahealth.com/deleteme.wpo3gk.php on line 16
+[10-May-2020 08:40:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/akratech/public_html/akrahealth.com/deleteme.wp0ers.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/akratech/public_html/akrahealth.com/deleteme.wp0ers.php on line 16
+[17-Oct-2020 18:21:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/akratech/public_html/akrahealth.com/vendor/doctrine/inflector/lib/Doctrine/Common/Inflector/Inflector.php on line 265
+[11-Jan-2021 12:34:35 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 12:34:47 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 12:34:53 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 12:34:55 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 12:34:55 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 12:35:06 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 12:35:07 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 12:35:08 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 12:35:26 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 12:35:36 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 12:35:36 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 12:35:37 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 12:36:16 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 12:37:12 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 12:37:34 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 12:38:06 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 12:38:07 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 12:38:25 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 12:38:28 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 12:38:31 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 12:38:49 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 12:38:50 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 12:38:50 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 15:28:03 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 16:08:43 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[11-Jan-2021 16:09:04 Asia/Kolkata] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/home/akratech/public_html/akrahealth.com/storage/logs/laravel.log" could not be opened: failed to open stream: Disk quota exceeded in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php:14181
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(14111): Monolog\Handler\StreamHandler->write(Array)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13871): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13969): Monolog\Logger->addRecord(400, Object(ErrorException), Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13664): Monolog\Logger->error(Object(ErrorException), Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(13635): Illuminate\Log\Writer->writeLog('error', Object(ErrorException), Array)
+#5 /home/akratech/public_html/akrahealth.com/v in /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php on line 14181
+[08-Feb-2021 00:04:52 UTC] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpe5DVxA" does not exist in /home/akratech/public_html/akrahealth.com/vendor/symfony/http-foundation/File/File.php:37
+Stack trace:
+#0 /home/akratech/public_html/akrahealth.com/vendor/symfony/http-foundation/File/UploadedFile.php(96): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpe5DVxA', true)
+#1 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(4421): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpe5DVxA', 'king.php', '', 376, 0)
+#2 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(4400): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(4405): Symfony\Component\HttpFoundation\FileBag->set('file', Array)
+#4 /home/akratech/public_html/akrahealth.com/bootstrap/cache/compiled.php(4393): Symfony\Component\HttpFoundation\FileBag->add(Array in /home/akratech/public_html/akrahealth.com/vendor/symfony/http-foundation/File/File.php on line 37
